@@ -46,7 +46,7 @@ Here are a few things I've picked up along my learning journey.
      <img src=https://github-readme-stats.vercel.app/api?username=MaximilianHagelstam&show_icons=true&theme=nord&hide_border=true />
 </p>
 
-## 🔥 Main Repos
+## 💪 Main Repos
 
 <p>
   <a href="https://github.com/MaximilianHagelstam/MeeTime">
