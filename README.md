@@ -6,16 +6,12 @@
 ![CSS](https://img.shields.io/badge/Python-Intermediate-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
 
-<br>
-
 Aspiring software engineer based in Finland.
 
 - 🔭 I’m currently attending a finnish highschool
 - 🌱 I’m refining my skills **C#** and **React.js**
 - 💼 I’m open for **summer jobs** and **freelance gigs**
 - 👯 I’m looking to collaborate on **open source** projects
-
-<br>
 
 ## ⚡ Technologies & Tools
 
@@ -30,8 +26,6 @@ Here are a few things I've picked up along my learning journey.
 - 📟 Arduino | Raspberry PI
 - 💠 FL Studio | Davinci Resolve
 
-<br>
-
 ## 📫 Get In Touch
 
 - Site - [maximilianhagelstam](https://maximilianhagelstam.github.io/)
@@ -42,8 +36,6 @@ Here are a few things I've picked up along my learning journey.
 - GitHub - [MaximilianHagelstam](https://github.com/MaximilianHagelstam)
 - Fiverr - [hagelstammaxim](https://www.fiverr.com/hagelstammaxim)
 
-<br>
-
 ## 📈 GitHub Stats
 
 <p>
@@ -53,8 +45,6 @@ Here are a few things I've picked up along my learning journey.
 <p>
      <img src=https://github-readme-stats.vercel.app/api?username=MaximilianHagelstam&show_icons=true&theme=nord&hide_border=true />
 </p>
-
-<br>
 
 ## 📈 Main Repos
 
