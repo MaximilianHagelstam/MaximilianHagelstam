@@ -8,7 +8,7 @@
 
 Aspiring software engineer based in Finland.
 
-- 🔭 I’m currently attending highschool
+- 🎓 I’m currently attending highschool
 - 🌱 I’m refining my skills **C#** and **.NET**
 - 💼 I’m open for **summer jobs** and **freelance gigs**
 - 👯 I’m looking to collaborate on **open source** projects
@@ -34,7 +34,6 @@ Here are a few things I've picked up along my learning journey.
 - Twitter - [@MaximilianHag12](https://twitter.com/MaximilianHag12)
 - StackOverflow - [Maxim](https://stackoverflow.com/users/11284842/maxim)
 - GitHub - [MaximilianHagelstam](https://github.com/MaximilianHagelstam)
-- Fiverr - [hagelstammaxim](https://www.fiverr.com/hagelstammaxim)
 
 ## 📈 GitHub Stats
 
