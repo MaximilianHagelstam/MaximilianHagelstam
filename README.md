@@ -8,8 +8,8 @@
 
 Aspiring software engineer based in Finland.
 
-- 🔭 I’m currently attending a finnish highschool
-- 🌱 I’m refining my skills **C#** and **React.js**
+- 🔭 I’m currently attending highschool
+- 🌱 I’m refining my skills **C#** and **.NET**
 - 💼 I’m open for **summer jobs** and **freelance gigs**
 - 👯 I’m looking to collaborate on **open source** projects
 
@@ -18,8 +18,8 @@ Aspiring software engineer based in Finland.
 Here are a few things I've picked up along my learning journey.
 
 - 🗣 C# | Python | JavaScript
-- 🖇️ .NET | React | Express
-- 🛢️ MS SQL | MongoDB
+- 🖼️ .NET | React
+- 🛢️ MS SQL
 - 🌐 HTML | CSS
 - ☁ Azure
 - 🔧 Visual Studio | VS Code | Git | Trello
