@@ -2,39 +2,38 @@
 
 # Hi, I'm Maximilian Hagelstam <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-![C#](https://img.shields.io/badge/Csharp-Expert-purple)
-![CSS](https://img.shields.io/badge/Python-Intermediate-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
+![Java](https://img.shields.io/badge/Java-Intermediate-red)
+![Node.js](https://img.shields.io/badge/Node-Expert-green)
+![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
 
 Aspiring software engineer based in Finland.
 
-- 🔭 I’m currently attending a finnish highschool
-- 🌱 I’m refining my skills **C#** and **React.js**
-- 💼 I’m open for **summer jobs** and **freelance gigs**
-- 👯 I’m looking to collaborate on **open source** projects
+-   🔭 Currently attending highschool
+-   🌱 Refining my skills **Java** and **Node.js**
+-   💼 Open for **summer jobs** and **freelance gigs**
+-   👯 Looking to collaborate on **open source** projects
 
 ## ⚡ Technologies & Tools
 
 Here are a few things I've picked up along my learning journey.
 
-- 🗣 C# | Python | JavaScript
-- 🖇️ .NET | React | Express
-- 🛢️ MS SQL | MongoDB
-- 🌐 HTML | CSS
-- ☁ Azure
-- 🔧 Visual Studio | VS Code | Git | Trello
-- 📟 Arduino | Raspberry PI
-- 💠 FL Studio | Davinci Resolve
+-   🗣 Java | Node.js | Python
+-   🖇️ Express
+-   🛢️ MySQL | MongoDB
+-   🌐 HTML | CSS
+-   🔧 IntelliJ IDEA | VS Code | Git | Trello
+-   📟 Arduino | Raspberry PI
+-   💠 FL Studio | Davinci Resolve
 
 ## 📫 Get In Touch
 
-- Site - [maximilianhagelstam](https://maximilianhagelstam.github.io/)
-- Email - [maximilian.hagelstam@gmail.com](mailto:maximilian.hagelstam@gmail.com)
-- LinkedIn - [Maximilian Hagelstam](https://www.linkedin.com/in/maximilian-hagelstam-704840186/)
-- Twitter - [@MaximilianHag12](https://twitter.com/MaximilianHag12)
-- StackOverflow - [Maxim](https://stackoverflow.com/users/11284842/maxim)
-- GitHub - [MaximilianHagelstam](https://github.com/MaximilianHagelstam)
-- Fiverr - [hagelstammaxim](https://www.fiverr.com/hagelstammaxim)
+-   Site - [maximilianhagelstam](https://maximilianhagelstam.github.io/)
+-   Email - [maximilian.hagelstam@gmail.com](mailto:maximilian.hagelstam@gmail.com)
+-   LinkedIn - [Maximilian Hagelstam](https://www.linkedin.com/in/maximilian-hagelstam-704840186/)
+-   Twitter - [@MaximilianHag12](https://twitter.com/MaximilianHag12)
+-   StackOverflow - [Maxim](https://stackoverflow.com/users/11284842/maxim)
+-   GitHub - [MaximilianHagelstam](https://github.com/MaximilianHagelstam)
+-   Fiverr - [hagelstammaxim](https://www.fiverr.com/hagelstammaxim)
 
 ## 📈 GitHub Stats
 
