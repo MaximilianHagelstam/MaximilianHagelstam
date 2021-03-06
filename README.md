@@ -3,7 +3,7 @@
 # Hi, I'm Maximilian Hagelstam <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 ![Java](https://img.shields.io/badge/Java-Intermediate-red)
-![Node.js](https://img.shields.io/badge/Node-Expert-green)
+![Node.js](https://img.shields.io/badge/Node.js-Expert-green)
 ![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
 
 Aspiring software engineer based in Finland.
@@ -20,7 +20,7 @@ Here are a few things I've picked up along my learning journey.
 -   🗣 Java | Node.js | Python
 -   🖇️ Express
 -   🛢️ MySQL | MongoDB
--   🌐 HTML | CSS
+-   🌐 HTML | CSS | JavaScript
 -   🔧 IntelliJ IDEA | VS Code | Git | Trello
 -   📟 Arduino | Raspberry PI
 -   💠 FL Studio | Davinci Resolve
