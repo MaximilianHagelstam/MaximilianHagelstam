@@ -47,13 +47,7 @@ Here are a few things I've picked up along my learning journey.
 ## 💪 Main Repos
 
 <p>
-  <a href="https://github.com/MaximilianHagelstam/MeeTime">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaximilianHagelstam&repo=MeeTime&theme=nord&hide_border=true" />
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/MaximilianHagelstam/SpeckBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaximilianHagelstam&repo=SpeckBot&theme=nord&hide_border=true" />
+  <a href="https://github.com/MaximilianHagelstam/Aura">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaximilianHagelstam&repo=Aura&theme=nord&hide_border=true" />
   </a>
 </p>
