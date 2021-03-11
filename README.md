@@ -47,7 +47,7 @@ Here are a few things I've picked up along my learning journey.
 ## 💪 Main Repos
 
 <p>
-  <a href="https://github.com/MaximilianHagelstam/Aura">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaximilianHagelstam&repo=Aura&theme=nord&hide_border=true" />
+  <a href="https://github.com/MaximilianHagelstam/aura-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaximilianHagelstam&repo=aura-api&theme=nord&hide_border=true" />
   </a>
 </p>
