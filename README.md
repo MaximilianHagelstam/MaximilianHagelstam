@@ -22,8 +22,6 @@ Here are a few things I've picked up along my learning journey.
 -   🛢️ MongoDB | PostgreSQL
 -   🌐 HTML | CSS | JavaScript
 -   🔧 VS Code | Git | Trello
--   📟 Arduino | Raspberry PI
--   💠 FL Studio | Davinci Resolve
 
 ## 📫 Get In Touch
 
