@@ -18,7 +18,7 @@ Aspiring software engineer based in Finland.
 Here are a few things I've picked up along my learning journey.
 
 -   🗣 Node.js | Java | Python
--   🖇️ Express
+-   🖇️ Express | Jest
 -   🛢️ MongoDB | PostgreSQL
 -   🌐 HTML | CSS | JavaScript
 -   🔧 VS Code | Git | Trello
