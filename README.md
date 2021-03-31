@@ -2,14 +2,10 @@
 
 # Hi, I'm Maximilian Hagelstam <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-![Node.js](https://img.shields.io/badge/Node.js-Expert-green)
-![Java](https://img.shields.io/badge/Java-Beginner-red)
-![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
-
 Aspiring software engineer based in Finland.
 
 -   🔭 Currently attending highschool
--   🌱 Refining my skills in **Node.js**
+-   🌱 Refining my skills in **API development**
 -   💼 Open for **summer jobs** and **freelance gigs**
 -   👯 Looking to collaborate on **open source** projects
 
@@ -17,10 +13,9 @@ Aspiring software engineer based in Finland.
 
 Here are a few things I've picked up along my learning journey.
 
--   🗣 Node.js | Java | Python
--   🖇️ Express | Jest
+-   🗣 Node.js | TypeScript | JavaScript
 -   🛢️ MongoDB | PostgreSQL
--   🌐 HTML | CSS | JavaScript
+-   🌐 Express | HTML | CSS |
 -   🔧 VS Code | Git | Trello
 
 ## 📫 Get In Touch
@@ -29,7 +24,7 @@ Here are a few things I've picked up along my learning journey.
 -   Email - [maximilian.hagelstam@gmail.com](mailto:maximilian.hagelstam@gmail.com)
 -   LinkedIn - [Maximilian Hagelstam](https://www.linkedin.com/in/maximilian-hagelstam-704840186/)
 -   Twitter - [@MaximilianHag12](https://twitter.com/MaximilianHag12)
--   StackOverflow - [Maxim](https://stackoverflow.com/users/11284842/maxim)
+-   StackOverflow - [Maximilian Hagelstam](https://stackoverflow.com/users/11284842/maxim)
 -   GitHub - [MaximilianHagelstam](https://github.com/MaximilianHagelstam)
 
 ## 📈 GitHub Stats
