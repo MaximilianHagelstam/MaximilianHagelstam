@@ -2,7 +2,7 @@
 
 # Hi, I'm Maximilian Hagelstam <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-Aspiring software engineer based in Finland.
+Backend developer based in Finland.
 
 -   🔭 Currently attending highschool
 -   🌱 Refining my skills in **API development**
@@ -15,7 +15,7 @@ Here are a few things I've picked up along my learning journey.
 
 -   🗣 Node.js | TypeScript | JavaScript
 -   🛢️ MongoDB | PostgreSQL
--   🌐 Express | HTML | CSS |
+-   🌐 Express.js | HTML | CSS |
 -   🔧 VS Code | Git | Trello
 
 ## 📫 Get In Touch
@@ -24,6 +24,7 @@ Here are a few things I've picked up along my learning journey.
 -   Email - [maximilian.hagelstam@gmail.com](mailto:maximilian.hagelstam@gmail.com)
 -   LinkedIn - [Maximilian Hagelstam](https://www.linkedin.com/in/maximilian-hagelstam-704840186/)
 -   Twitter - [@MaximilianHag12](https://twitter.com/MaximilianHag12)
+-   Medium - [@maximilian.hagelstam](https://medium.com/@maximilian.hagelstam)
 -   StackOverflow - [Maximilian Hagelstam](https://stackoverflow.com/users/11284842/maxim)
 -   GitHub - [MaximilianHagelstam](https://github.com/MaximilianHagelstam)
 
