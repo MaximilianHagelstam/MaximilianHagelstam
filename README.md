@@ -4,29 +4,29 @@
 
 Backend developer based in Finland.
 
--   🔭 Currently attending highschool
--   🌱 Refining my skills in **API development**
--   💼 Open for **summer jobs** and **freelance gigs**
--   👯 Looking to collaborate on **open source** projects
+- 🔭 Currently attending highschool
+- 🌱 Refining my skills in **API development**
+- 💼 Open for **summer jobs** and **freelance gigs**
+- 👯 Looking to collaborate on **open source** projects
 
 ## ⚡ Technologies & Tools
 
 Here are a few things I've picked up along my learning journey.
 
--   🗣 Node.js | TypeScript | JavaScript | Python
--   🛢️ MongoDB | PostgreSQL
--   🌐 Express.js | HTML | CSS |
--   🔧 VS Code | Git | Trello
+- 🗣 Node.js | TypeScript | JavaScript | Python
+- 🛢️ MongoDB
+- 🌐 Express.js | HTML | CSS |
+- 🔧 VS Code | Git | Trello
 
 ## 📫 Get In Touch
 
--   Site - [maximilianhagelstam](https://maximilianhagelstam.github.io/)
--   Email - [maximilian.hagelstam@gmail.com](mailto:maximilian.hagelstam@gmail.com)
--   LinkedIn - [Maximilian Hagelstam](https://www.linkedin.com/in/maximilian-hagelstam-704840186/)
--   Twitter - [@MaximilianHag12](https://twitter.com/MaximilianHag12)
--   Medium - [@maximilian.hagelstam](https://medium.com/@maximilian.hagelstam)
--   StackOverflow - [Maximilian Hagelstam](https://stackoverflow.com/users/11284842/maxim)
--   GitHub - [MaximilianHagelstam](https://github.com/MaximilianHagelstam)
+- Site - [maximilianhagelstam](https://maximilianhagelstam.github.io/)
+- Email - [maximilian.hagelstam@gmail.com](mailto:maximilian.hagelstam@gmail.com)
+- LinkedIn - [Maximilian Hagelstam](https://www.linkedin.com/in/maximilian-hagelstam-704840186/)
+- Twitter - [@MaximilianHag12](https://twitter.com/MaximilianHag12)
+- Medium - [@maximilian.hagelstam](https://medium.com/@maximilian.hagelstam)
+- StackOverflow - [Maximilian Hagelstam](https://stackoverflow.com/users/11284842/maxim)
+- GitHub - [MaximilianHagelstam](https://github.com/MaximilianHagelstam)
 
 ## 📈 GitHub Stats
 
