@@ -13,9 +13,9 @@ Backend developer based in Finland.
 
 Here are a few things I've picked up along my learning journey.
 
-- 🗣 Node.js | TypeScript | JavaScript | Python
+- 🗣 Node.js | Java | Python
 - 🛢️ MongoDB
-- 🌐 Express.js | HTML | CSS |
+- 🌐 Express.js | HTML | CSS | JavaScript
 - 🔧 VS Code | Git | Trello
 
 ## 📫 Get In Touch
