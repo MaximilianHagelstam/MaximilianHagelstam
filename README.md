@@ -45,3 +45,9 @@ Here are a few things I've picked up along my learning journey.
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaximilianHagelstam&repo=aura&theme=nord&hide_border=true" />
   </a>
 </p>
+
+<p>
+  <a href="https://github.com/MaximilianHagelstam/cryptochimp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaximilianHagelstam&repo=cryptochimp&theme=nord&hide_border=true" />
+  </a>
+</p>
