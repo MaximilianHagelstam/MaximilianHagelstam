@@ -29,24 +29,12 @@ Here are a few things I've picked up along my learning journey.
 
 ## 📈 GitHub Stats
 
-<p>
-    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=MaximilianHagelstam&show_icons=true&theme=nord&layout=compact&hide_border=true />
-</p>
+![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximilianHagelstam&show_icons=true&theme=nord&layout=compact&hide_border=true)
 
-<p>
-     <img src=https://github-readme-stats.vercel.app/api?username=MaximilianHagelstam&show_icons=true&theme=nord&hide_border=true />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaximilianHagelstam&show_icons=true&theme=nord&hide_border=true)
 
 ## 💪 Main Repos
 
-<p>
-  <a href="https://github.com/MaximilianHagelstam/aura">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaximilianHagelstam&repo=aura&theme=nord&hide_border=true" />
-  </a>
-</p>
+[![Aura](https://github-readme-stats.vercel.app/api/pin/?username=MaximilianHagelstam&repo=aura&theme=nord&hide_border=true)](https://github.com/MaximilianHagelstam/aura)
 
-<p>
-  <a href="https://github.com/MaximilianHagelstam/cryptochimp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaximilianHagelstam&repo=cryptochimp&theme=nord&hide_border=true" />
-  </a>
-</p>
+[![Crypto Chimp](https://github-readme-stats.vercel.app/api/pin/?username=MaximilianHagelstam&repo=cryptochimp&theme=nord&hide_border=true)](https://github.com/MaximilianHagelstam/cryptochimp)
