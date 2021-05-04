@@ -5,7 +5,7 @@
 Backend developer based in Finland.
 
 - 🔭 Currently attending highschool
-- 🌱 Refining my skills in **Node.js**
+- 🌱 Refining my skills in **API development**
 - 💼 Open for **summer jobs** and **freelance gigs**
 - 👯 Looking to contribute on **open source** projects
 
@@ -13,8 +13,8 @@ Backend developer based in Finland.
 
 Here are a few things I've picked up along my learning journey.
 
-- 🗣 Node.js | JavaScript | Python
-- 🛢️ MongoDB
+- 🗣 Node.js | JavaScript | TypeScript
+- 🛢️ PostgreSQL | MongoDB
 - 🌐 Express.js | HTML | CSS
 - 🔧 VS Code | Git | Ubuntu | Trello
 
