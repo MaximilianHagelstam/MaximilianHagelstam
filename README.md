@@ -1,4 +1,4 @@
-![Header image](Header.png)
+![Header image](banner.png)
 
 # Hi, I'm Maximilian Hagelstam <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
