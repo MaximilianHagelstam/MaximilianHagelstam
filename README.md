@@ -1,4 +1,4 @@
-![Header image](banner.png)
+[![banner](banner.png)](https://maximilianhagelstam.github.io/)
 
 # Hi, I'm Maximilian Hagelstam <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
