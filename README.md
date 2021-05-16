@@ -35,3 +35,5 @@ Here are a few things I've picked up along my learning journey.
 ## 💪 Main Repos
 
 [![Crypto Chimp](https://github-readme-stats.vercel.app/api/pin/?username=MaximilianHagelstam&repo=cryptochimp&theme=nord&hide_border=true)](https://github.com/MaximilianHagelstam/cryptochimp)
+
+[![Crypto Chimp](https://github-readme-stats.vercel.app/api/pin/?username=LeafReef&repo=thyme&theme=nord&hide_border=true)](https://github.com/LeafReef/thyme)
