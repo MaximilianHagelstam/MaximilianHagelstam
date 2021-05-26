@@ -15,7 +15,7 @@ Here are a few things I've picked up along my learning journey.
 
 - 🗣 Node.js | JavaScript | TypeScript
 - 🛢️ PostgreSQL | MongoDB
-- 🌐 Express.js | HTML | CSS
+- 🌐 Express.js | React.js | HTML | CSS
 - 🔧 VS Code | Git | Ubuntu | Trello
 
 ## 📫 Get In Touch
