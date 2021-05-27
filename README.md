@@ -2,6 +2,11 @@
 
 # Hi, I'm Maximilian Hagelstam <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
+- 🔭 Currently attending highschool
+- 🌱 Refining my skills in **API development**
+- 💼 Open for **summer jobs** and **freelance gigs**
+- 👯 Looking to contribute on **open source** projects
+
 ## ⚡ Technologies & Tools
 
 Here are a few things I've picked up along my learning journey.
