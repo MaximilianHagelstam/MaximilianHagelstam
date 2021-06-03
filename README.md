@@ -24,6 +24,7 @@ Here are a few things I've picked up along my learning journey.
 
 ## 📈 GitHub Stats
 
-![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximilianHagelstam&show_icons=true&theme=nord&layout=compact&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=MaximilianHagelstam&show_icons=true&theme=nord&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximilianHagelstam&show_icons=true&theme=nord&layout=compact&hide_border=true"/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaximilianHagelstam&show_icons=true&theme=nord&hide_border=true)
+
