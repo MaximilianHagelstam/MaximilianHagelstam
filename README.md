@@ -13,9 +13,9 @@
 
 ## 📫 Get In Touch
 
-- GitHub - [MaximilianHagelstam](https://github.com/MaximilianHagelstam)
+- Website - [maximilianhagelstam](https://maximilianhagelstam.github.io/)
 - Twitter - [@MaximilianHag12](https://twitter.com/MaximilianHag12)
-- YouTube - [Maximilian Hagelstam](https://www.youtube.com/channel/UCKQwkDPkze_8F3-wvM3aiIw/about)
+- YouTube - [Maximilian Hagelstam](https://www.youtube.com/channel/UCKQwkDPkze_8F3-wvM3aiIw/featured)
 
 ## 📈 GitHub Stats
 
