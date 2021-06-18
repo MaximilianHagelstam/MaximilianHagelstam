@@ -6,8 +6,8 @@
 
 ## ⚡ Technologies & Tools
 
-- 🗣 Node.js · JavaScript · TypeScript · SQL
-- 🛢️ PostgreSQL · MongoDB
+- 🗣 Node.js · JavaScript · TypeScript
+- 🛢️ SQL · PostgreSQL · MongoDB
 - 🌐 Express.js · React.js · HTML · CSS
 - 🔧 VS Code · Git · Ubuntu · Trello
 
