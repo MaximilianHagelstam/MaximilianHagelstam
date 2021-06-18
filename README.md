@@ -1,7 +1,7 @@
 # Hi, I'm Maximilian Hagelstam <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 - 🔭 Currently attending highschool
-- 🌱 Refining my skills in the **PERN stack**
+- 🌱 Refining my skills in **API development**
 - 💼 Open for **summer jobs** and **freelance gigs**
 
 ## ⚡ Technologies & Tools
