@@ -13,7 +13,7 @@
 
 ## 📫 Get In Touch
 
-- Website - [maximilianhagelstam](https://maximilianhagelstam.github.io/)
+- Website - [maximilianhagelstam.me](http://maximilianhagelstam.me/)
 - Twitter - [@MaximilianHag12](https://twitter.com/MaximilianHag12)
 - YouTube - [Maximilian Hagelstam](https://www.youtube.com/channel/UCKQwkDPkze_8F3-wvM3aiIw/featured)
 
