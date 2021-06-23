@@ -8,7 +8,7 @@
 
 - 🗣 Node.js · JavaScript · TypeScript
 - 🛢️ SQL · PostgreSQL · MongoDB
-- 🌐 Express.js · React.js · HTML · CSS
+- 🌐 Express.js · HTML · CSS
 - 🔧 VS Code · Git · Ubuntu · Trello
 
 ## 📫 Get In Touch
